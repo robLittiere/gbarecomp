@@ -95,6 +95,7 @@ read_io                 io_state              read_rom
 read_save               save_state            scheduler_state
 ppu_state               dma_state             timer_state           irq_state
 audio_state             screenshot
+mod_cheats              (committed mod cheats + frames applied; docs/MOD_PACKAGES.md)
 ```
 
 ## Ring-buffer queries
